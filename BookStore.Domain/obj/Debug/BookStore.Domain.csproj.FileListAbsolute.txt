@@ -1,0 +1,92 @@
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\BookStore\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\Курсач\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Сергей\Desktop\Курсач — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll.config
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\Сергей\Desktop\Курсач — копия — копия — копия\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
